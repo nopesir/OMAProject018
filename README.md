@@ -114,9 +114,14 @@ best result.
 #### THE TEAM
 
 Arakelyan Alisa
+
 Anjum Muhammad Ali
+
 Bhandari Hema
+
 Gravile Andrea
+
 Ferrettino Luigi
+
 Sommese Giuseppe
 Valente Francesco
